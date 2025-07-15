@@ -14,7 +14,11 @@
   "license": "MIT",
   "dependencies": {
     "@tauri-apps/api": "^2",
-    "@tauri-apps/plugin-opener": "^2"
+    "@tauri-apps/plugin-opener": "^2",
+    "flowbite": "^3.1.2",
+    "flowbite-svelte": "^1.10.0",
+    "flowbite-svelte-icons": "^2.2.1",
+    "tailwindcss": "^4.1.11"
   },
   "devDependencies": {
     "@sveltejs/adapter-static": "^3.0.6",
